@@ -1,0 +1,238 @@
+@media (max-width: 1070px) and (min-width: 300px) {
+  header, .main-welcome, .working-process-content, .our-exclusive-feautures {
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .beginning {
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .remarkable-works {
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  .head img {
+    max-width: 100%;
+    max-height: 25px;
+  }
+
+  .menubar {
+    display: inline-block;
+    padding-left: 35%;
+  }
+
+  .welcome-photo img {
+    display: none;
+  }
+
+  .welcome h1 {
+    padding-top: 50px;
+  }
+
+  .welcome p {
+    padding-right: 10%;
+  }
+
+  .welcome .getStartedButton {
+    margin-bottom: 35px;
+  }
+
+  .single-work-process {
+    padding-bottom: 15px;
+  }
+
+  .total-work-process .work-arrow {
+    display: none;
+  }
+
+  .title2 {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .our-exclusive-feautures-col {
+    display: block;
+  }
+
+  .single-feauture img {
+    height: 250px;
+    width: 250px;
+  }
+
+  .our-exclusive-feautures-col .single-feauture:not(:last-child) {
+    margin-right: 0;
+    text-align: center;
+  }
+
+  .single-feauture .getStartedButton {
+    margin-left: 0;
+  }
+
+  .first-row, .second-row, .third-row {
+    display: block;
+    text-align: center;
+    justify-content: center;
+  }
+
+  .first-row img, .second-row img, .third-row img {
+    width: 270px;
+  }
+
+  .first-row-desc {
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    height: 310px;
+  }
+
+  .first-row-desc .ViewProjectButton {
+    margin-left: 0;
+  }
+
+  .second-row-desc {
+    text-align: center;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 450px;
+  }
+
+  .second-row-photo img {
+    height: 150px;
+    padding-top: 20px;
+  }
+
+  .second-row-desc .ViewProjectButton {
+    margin-left: 0;
+  }
+
+  .first-row .ViewProjectButton, .second-row .ViewProjectButton {
+    padding: 0 10px;
+  }
+
+  .third-row .ViewProjectButton {
+    padding: 0 10px;
+  }
+
+  .third-row-desc {
+    height: 350px;
+    text-align: center;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  .third-row-desc .ViewProjectButton {
+    margin-left: 0;
+  }
+
+  .beginning img {
+    display: none;
+  }
+
+  .beginning-container {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+  }
+
+  .beginning-container p {
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+
+  .beginning-container h6 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .beginning-container .ViewProjectButton {
+    margin-left: 0;
+    margin-bottom: 25px;
+  }
+
+  #email-left {
+    width: 190px;
+  }
+
+  .newsletter-row {
+    display: block;
+    text-align: center;
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .container {
+    margin-left: 0;
+  }
+
+  .newsletter-col1 {
+    margin-bottom: 10px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+  }
+
+  .newsletter-col1 h3 {
+    padding-bottom: 10px;
+  }
+
+  .newsletter-col2 {
+    padding-left: 0;
+    padding-top: 10px;
+  }
+
+  .form-enter {
+    margin-right: 0;
+  }
+
+  #email-right {
+    margin-top: 15px;
+  }
+
+  .newsletter {
+    height: 290px;
+    width: 92%;
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+
+  input {
+    width: 50%;
+    margin-left: 18.5%;
+    margin-right: 18.5%;
+  }
+
+  .common-textarea {
+    width: 50%;
+  }
+
+  .widgets-row {
+    display: block;
+    text-align: center;
+    padding-top: 80px;
+  }
+
+  .contact-form-area {
+    padding-bottom: 0;
+  }
+
+  .contact-form-container {
+    text-align: center;
+    padding-right: 4%;
+    padding-left: 4%;
+  }
+
+  .contact-button {
+    justify-content: center;
+  }
+}
